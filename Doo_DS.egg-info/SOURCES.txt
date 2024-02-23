@@ -1,6 +1,0 @@
-setup.py
-Doo_DS.egg-info/PKG-INFO
-Doo_DS.egg-info/SOURCES.txt
-Doo_DS.egg-info/dependency_links.txt
-Doo_DS.egg-info/requires.txt
-Doo_DS.egg-info/top_level.txt

@@ -1,12 +1,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Doo_DS',
+    name='Doo',
     version='0.1',
-    packages= find_packages(exclude=['tests']),  # Use `find_packages()` correctly
+    packages= find_packages(),  # Use `find_packages()` correctly
     description='NA',  # Replace with a concise description
-    long_description='NA',  # Replace with a detailed description (optional)
-    install_requires=['numpy'],  # Fix typo
+    long_description='NA',  # Replace with a detailed description (optional)  # Fix typo
     author='Doo',
     author_email='Doo@gmail.com',
 )
